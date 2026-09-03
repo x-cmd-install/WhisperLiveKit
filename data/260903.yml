@@ -1,19 +1,21 @@
 about:
-  description: Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.
+  description:
+  |
+    Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.
   license: Apache-2.0
   homepage: 
   head: b781ce9
   archived: false
   latestVersion: v0.2.26
-  collectedAt: 2026-09-03T05:14:07Z
+  collectedAt: 2026-09-03T22:36:35Z
 timeline:
   created: 2024-12-19
   lastCommit: 2026-08-29
   lastRelease: 2026-08-29
 popularity:
-  star: 10991
+  star: 10999
   watcher: 60
-  fork: 1135
+  fork: 1134
   release: 33
   contributor: 44
   pullRequest: 60
@@ -25,7 +27,7 @@ language:
   CSS: 11055
   HTML: 3335
   Dockerfile: 2216
-totalLine: 1374360
+totalBytes: 1374360
 recent:
   last30d:
     since: 2026-08-04
