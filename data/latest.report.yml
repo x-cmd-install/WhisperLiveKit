@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.26"
   latestRelease: "v0.2.26"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:17:47Z
+  collectedAt: 2026-09-09T20:42:14Z
 timeline:
   created: 2024-12-19
   lastCommit: 2026-08-30
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-08-29
   lastPrerelease: 
 popularity:
-  star: 11013
+  star: 11017
   watcher: 61
-  fork: 1135
+  fork: 1136
   release: 33
   contributor: 45
   pullRequest: 158
@@ -88,7 +88,7 @@ total:
   commit: 920
 ---
 path: /home/runner/.x-repo/github.com/QuentinFuxa/WhisperLiveKit
-collectedAt: 2026-09-09T06:17:52Z
+collectedAt: 2026-09-09T20:42:20Z
 loc:
   Python:
     code: 30123
