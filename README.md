@@ -40,18 +40,18 @@ Total: **42,439** lines of code across **169** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 99 · **Open PRs**: 7 · **Closed issues**: 260 · **Open issues**: 0 · **Commits**: 920
+- **Releases**: 33 · **Merged PRs**: 99 · **Open PRs**: 8 · **Closed issues**: 260 · **Open issues**: 0 · **Commits**: 920
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 32 | 7 | 5 | 0 | 66 |
-| last60d | 2026-07-12 | 2 | 38 | 7 | 10 | 0 | 76 |
-| 90d | 2026-06-12 | 4 | 42 | 7 | 12 | 0 | 93 |
-| last180d | 2026-03-14 | 5 | 44 | 7 | 35 | 0 | 121 |
-| 360d | 2025-09-15 | 17 | 57 | 7 | 125 | 0 | 326 |
-| last720d | 2024-09-20 | 33 | 99 | 7 | 260 | 0 | 453 |
+| 30d | 2026-08-12 | 1 | 32 | 8 | 5 | 0 | 66 |
+| last60d | 2026-07-13 | 2 | 38 | 8 | 10 | 0 | 76 |
+| 90d | 2026-06-13 | 4 | 42 | 8 | 12 | 0 | 93 |
+| last180d | 2026-03-15 | 5 | 44 | 8 | 35 | 0 | 121 |
+| 360d | 2025-09-16 | 17 | 57 | 8 | 124 | 0 | 326 |
+| last720d | 2024-09-21 | 33 | 99 | 8 | 260 | 0 | 453 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for WhisperLiveKit lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:38:48Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T06:16:50Z._
