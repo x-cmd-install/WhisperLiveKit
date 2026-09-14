@@ -36,22 +36,22 @@ Total: **42,439** lines of code across **169** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,029 · **Forks**: 1,135 · **Open issues**: 260 · **Contributors**: 45
+- **Stars**: 11,030 · **Forks**: 1,136 · **Open issues**: 260 · **Contributors**: 45
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 99 · **Open PRs**: 8 · **Closed issues**: 260 · **Open issues**: 0 · **Commits**: 920
+- **Releases**: 33 · **Merged PRs**: 99 · **Open PRs**: 9 · **Closed issues**: 260 · **Open issues**: 0 · **Commits**: 920
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 32 | 8 | 4 | 0 | 66 |
-| last60d | 2026-07-15 | 2 | 37 | 8 | 10 | 0 | 76 |
-| 90d | 2026-06-15 | 4 | 42 | 8 | 11 | 0 | 93 |
-| last180d | 2026-03-17 | 5 | 44 | 8 | 34 | 0 | 121 |
-| 360d | 2025-09-18 | 16 | 56 | 8 | 121 | 0 | 326 |
-| last720d | 2024-09-23 | 33 | 99 | 8 | 260 | 0 | 453 |
+| 30d | 2026-08-15 | 1 | 32 | 9 | 4 | 0 | 50 |
+| last60d | 2026-07-16 | 2 | 37 | 9 | 10 | 0 | 75 |
+| 90d | 2026-06-16 | 4 | 42 | 9 | 11 | 0 | 93 |
+| last180d | 2026-03-18 | 5 | 44 | 9 | 34 | 0 | 120 |
+| 360d | 2025-09-19 | 16 | 56 | 9 | 121 | 0 | 315 |
+| last720d | 2024-09-24 | 33 | 99 | 9 | 260 | 0 | 453 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for WhisperLiveKit lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:27:38Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:49:10Z._
