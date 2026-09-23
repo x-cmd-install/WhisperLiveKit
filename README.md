@@ -4,7 +4,7 @@
 
 Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.
 
-[![x-cmd/install — WhisperLiveKit Code Quality Monitoring Repo Card](https://repo.x-cmd.io/WhisperLiveKit.svg)](https://x-cmd.com/install/WhisperLiveKit)
+[![x-cmd/install — WhisperLiveKit Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/WhisperLiveKit.svg)](https://x-cmd.com/install/WhisperLiveKit)
 
 ## Install
 
@@ -36,7 +36,7 @@ Total: **42,439** lines of code across **169** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,080 · **Forks**: 1,137 · **Open issues**: 260 · **Contributors**: 45
+- **Stars**: 11,086 · **Forks**: 1,138 · **Open issues**: 260 · **Contributors**: 45
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **42,439** lines of code across **169** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 19 | 9 | 1 | 0 | 46 |
-| last60d | 2026-07-24 | 2 | 36 | 9 | 8 | 0 | 75 |
-| 90d | 2026-06-24 | 4 | 42 | 9 | 11 | 0 | 93 |
-| last180d | 2026-03-26 | 5 | 44 | 9 | 34 | 0 | 120 |
-| 360d | 2025-09-27 | 15 | 54 | 9 | 114 | 0 | 302 |
-| last720d | 2024-10-02 | 33 | 99 | 9 | 260 | 0 | 453 |
+| 30d | 2026-08-24 | 1 | 18 | 9 | 1 | 0 | 46 |
+| last60d | 2026-07-25 | 2 | 36 | 9 | 8 | 0 | 75 |
+| 90d | 2026-06-25 | 4 | 42 | 9 | 11 | 0 | 93 |
+| last180d | 2026-03-27 | 5 | 44 | 9 | 34 | 0 | 120 |
+| 360d | 2025-09-28 | 15 | 54 | 9 | 113 | 0 | 302 |
+| last720d | 2024-10-03 | 33 | 99 | 9 | 260 | 0 | 453 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for WhisperLiveKit lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:45:10Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:48:25Z._

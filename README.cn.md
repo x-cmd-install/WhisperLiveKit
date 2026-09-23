@@ -4,7 +4,7 @@
 
 Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.
 
-[![x-cmd/install — WhisperLiveKit Code Quality Monitoring Repo Card](https://repo.x-cmd.io/WhisperLiveKit.svg?lang=zh)](https://x-cmd.com/install/WhisperLiveKit)
+[![x-cmd/install — WhisperLiveKit Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/WhisperLiveKit.svg?lang=zh)](https://x-cmd.com/install/WhisperLiveKit)
 
 ## 安装
 
@@ -36,7 +36,7 @@ x install WhisperLiveKit
 
 ## 流行度
 
-- **Star**: 11,080 · **Fork**: 1,137 · **开放 issue**: 260 · **贡献者**: 45
+- **Star**: 11,086 · **Fork**: 1,138 · **开放 issue**: 260 · **贡献者**: 45
 
 ## 累计统计
 
@@ -46,12 +46,12 @@ x install WhisperLiveKit
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 19 | 9 | 1 | 0 | 46 |
-| last60d | 2026-07-24 | 2 | 36 | 9 | 8 | 0 | 75 |
-| 90d | 2026-06-24 | 4 | 42 | 9 | 11 | 0 | 93 |
-| last180d | 2026-03-26 | 5 | 44 | 9 | 34 | 0 | 120 |
-| 360d | 2025-09-27 | 15 | 54 | 9 | 114 | 0 | 302 |
-| last720d | 2024-10-02 | 33 | 99 | 9 | 260 | 0 | 453 |
+| 30d | 2026-08-24 | 1 | 18 | 9 | 1 | 0 | 46 |
+| last60d | 2026-07-25 | 2 | 36 | 9 | 8 | 0 | 75 |
+| 90d | 2026-06-25 | 4 | 42 | 9 | 11 | 0 | 93 |
+| last180d | 2026-03-27 | 5 | 44 | 9 | 34 | 0 | 120 |
+| 360d | 2025-09-28 | 15 | 54 | 9 | 113 | 0 | 302 |
+| last720d | 2024-10-03 | 33 | 99 | 9 | 260 | 0 | 453 |
 
 ## 改进这些数据
 
@@ -62,4 +62,4 @@ WhisperLiveKit 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:45:10Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:48:26Z._
