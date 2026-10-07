@@ -46,12 +46,12 @@ Total: **42,439** lines of code across **169** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 10 | 11 | 0 | 2 | 0 |
-| last60d | 2026-08-07 | 1 | 33 | 13 | 5 | 2 | 66 |
-| 90d | 2026-07-08 | 4 | 42 | 13 | 10 | 2 | 76 |
-| last180d | 2026-04-09 | 5 | 43 | 13 | 30 | 2 | 110 |
-| 360d | 2025-10-11 | 14 | 52 | 13 | 102 | 2 | 287 |
-| last720d | 2024-10-16 | 33 | 99 | 13 | 260 | 2 | 453 |
+| 30d | 2026-09-07 | 0 | 0 | 9 | 0 | 2 | 0 |
+| last60d | 2026-08-08 | 1 | 33 | 13 | 5 | 2 | 66 |
+| 90d | 2026-07-09 | 4 | 40 | 13 | 10 | 2 | 76 |
+| last180d | 2026-04-10 | 5 | 43 | 13 | 29 | 2 | 110 |
+| 360d | 2025-10-12 | 14 | 52 | 13 | 101 | 2 | 287 |
+| last720d | 2024-10-17 | 33 | 99 | 13 | 260 | 2 | 453 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for WhisperLiveKit lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:55:24Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T07:16:40Z._
