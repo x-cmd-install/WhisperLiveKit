@@ -14,7 +14,7 @@ x install WhisperLiveKit
 
 ## Code insight
 
-Total: **43,828** lines of code across **174** files in the top 5 languages.
+Total: **43,826** lines of code across **174** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -31,27 +31,27 @@ Total: **43,828** lines of code across **174** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.2.26` (2026-08-29)
-- **Last commit**: 2026-10-31
+- **Latest**: `v0.2.27` (2026-11-07)
+- **Last commit**: 2026-11-07
 
 ## Popularity
 
-- **Stars**: 11,221 · **Forks**: 1,160 · **Open issues**: 261 · **Contributors**: 45
+- **Stars**: 11,221 · **Forks**: 1,159 · **Open issues**: 261 · **Contributors**: 45
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 106 · **Open PRs**: 8 · **Closed issues**: 261 · **Open issues**: 0 · **Commits**: 947
+- **Releases**: 34 · **Merged PRs**: 111 · **Open PRs**: 6 · **Closed issues**: 261 · **Open issues**: 0 · **Commits**: 959
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 0 | 5 | 2 | 1 | 0 | 5 |
-| last60d | 2026-09-08 | 0 | 8 | 4 | 3 | 0 | 9 |
-| 90d | 2026-08-09 | 1 | 41 | 8 | 8 | 0 | 75 |
-| last180d | 2026-05-11 | 5 | 50 | 8 | 29 | 0 | 115 |
-| 360d | 2025-11-12 | 13 | 59 | 8 | 92 | 0 | 266 |
-| last720d | 2024-11-17 | 33 | 106 | 8 | 261 | 0 | 480 |
+| 30d | 2026-10-09 | 1 | 10 | 0 | 1 | 0 | 9 |
+| last60d | 2026-09-09 | 1 | 13 | 2 | 3 | 0 | 12 |
+| 90d | 2026-08-10 | 2 | 45 | 6 | 8 | 0 | 64 |
+| last180d | 2026-05-12 | 6 | 55 | 6 | 29 | 0 | 116 |
+| 360d | 2025-11-13 | 14 | 64 | 6 | 92 | 0 | 256 |
+| last720d | 2024-11-18 | 34 | 111 | 6 | 261 | 0 | 492 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for WhisperLiveKit lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261107.yml` · 2026-11-07T07:27:10Z._
+_Snapshot: `data/card/261108.yml` · 2026-11-08T07:18:47Z._
