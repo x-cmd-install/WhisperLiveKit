@@ -14,11 +14,11 @@ x install WhisperLiveKit
 
 ## Code insight
 
-Total: **47,979** lines of code across **188** files in the top 5 languages.
+Total: **48,479** lines of code across **190** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 31,394 | 1,274 | 5,667 | 149 |
+| Python | 31,878 | 1,323 | 5,741 | 151 |
 | Json | 14,326 | 0 | 4 | 23 |
 | JavaScript | 991 | 40 | 56 | 6 |
 | Css | 551 | 6 | 87 | 1 |
@@ -32,26 +32,26 @@ Total: **47,979** lines of code across **188** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.2.27` (2026-11-07)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-14
 
 ## Popularity
 
-- **Stars**: 11,248 · **Forks**: 1,158 · **Open issues**: 261 · **Contributors**: 45
+- **Stars**: 11,253 · **Forks**: 1,160 · **Open issues**: 262 · **Contributors**: 45
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 112 · **Open PRs**: 5 · **Closed issues**: 261 · **Open issues**: 0 · **Commits**: 968
+- **Releases**: 34 · **Merged PRs**: 114 · **Open PRs**: 3 · **Closed issues**: 261 · **Open issues**: 1 · **Commits**: 982
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 1 | 9 | 1 | 1 | 0 | 0 |
-| last60d | 2026-09-15 | 1 | 12 | 1 | 3 | 0 | 0 |
-| 90d | 2026-08-16 | 2 | 33 | 5 | 4 | 0 | 0 |
-| last180d | 2026-05-18 | 6 | 56 | 5 | 29 | 0 | 0 |
-| 360d | 2025-11-19 | 13 | 64 | 5 | 87 | 0 | 0 |
-| last720d | 2024-11-24 | 34 | 112 | 5 | 261 | 0 | 459 |
+| 30d | 2026-10-16 | 1 | 10 | 0 | 1 | 1 | 19 |
+| last60d | 2026-09-16 | 1 | 13 | 0 | 3 | 1 | 24 |
+| 90d | 2026-08-17 | 2 | 35 | 3 | 4 | 1 | 79 |
+| last180d | 2026-05-19 | 6 | 58 | 3 | 29 | 1 | 128 |
+| 360d | 2025-11-20 | 13 | 66 | 3 | 87 | 1 | 250 |
+| last720d | 2024-11-25 | 34 | 114 | 3 | 261 | 1 | 473 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for WhisperLiveKit lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:22:48Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T08:12:30Z._
