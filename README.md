@@ -14,11 +14,11 @@ x install WhisperLiveKit
 
 ## Code insight
 
-Total: **48,479** lines of code across **190** files in the top 5 languages.
+Total: **48,511** lines of code across **190** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 31,878 | 1,323 | 5,741 | 151 |
+| Python | 31,903 | 1,325 | 5,746 | 151 |
 | Json | 14,326 | 0 | 4 | 23 |
 | JavaScript | 991 | 40 | 56 | 6 |
 | Css | 551 | 6 | 87 | 1 |
@@ -31,27 +31,27 @@ Total: **48,479** lines of code across **190** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.2.27` (2026-11-07)
-- **Last commit**: 2026-11-14
+- **Latest**: `v0.2.28` (2026-11-22)
+- **Last commit**: 2026-11-22
 
 ## Popularity
 
-- **Stars**: 11,272 · **Forks**: 1,162 · **Open issues**: 263 · **Contributors**: 45
+- **Stars**: 11,276 · **Forks**: 1,163 · **Open issues**: 263 · **Contributors**: 46
 
 ## Totals (cumulative)
 
-- **Releases**: 34 · **Merged PRs**: 114 · **Open PRs**: 4 · **Closed issues**: 261 · **Open issues**: 2 · **Commits**: 982
+- **Releases**: 35 · **Merged PRs**: 117 · **Open PRs**: 3 · **Closed issues**: 262 · **Open issues**: 1 · **Commits**: 988
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 1 | 10 | 1 | 1 | 2 | 19 |
-| last60d | 2026-09-22 | 1 | 13 | 1 | 3 | 2 | 24 |
-| 90d | 2026-08-23 | 2 | 35 | 4 | 4 | 2 | 79 |
-| last180d | 2026-05-25 | 6 | 58 | 4 | 25 | 2 | 128 |
-| 360d | 2025-11-26 | 11 | 66 | 4 | 80 | 2 | 250 |
-| last720d | 2024-12-01 | 34 | 114 | 4 | 261 | 2 | 470 |
+| 30d | 2026-10-23 | 2 | 11 | 0 | 2 | 1 | 22 |
+| last60d | 2026-09-23 | 2 | 16 | 0 | 4 | 1 | 27 |
+| 90d | 2026-08-24 | 3 | 37 | 3 | 5 | 1 | 44 |
+| last180d | 2026-05-26 | 7 | 61 | 3 | 25 | 1 | 131 |
+| 360d | 2025-11-27 | 12 | 69 | 3 | 78 | 1 | 245 |
+| last720d | 2024-12-02 | 35 | 117 | 3 | 262 | 1 | 476 |
 
 ## Improve this data
 
@@ -62,4 +62,4 @@ Install metadata for WhisperLiveKit lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T07:55:56Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T08:16:23Z._
